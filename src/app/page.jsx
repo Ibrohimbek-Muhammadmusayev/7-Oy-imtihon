@@ -227,8 +227,8 @@ export default function Home() {
           </div>
           <div className="flex justify-between">
           {data.map((item)=>(
-              <a href={item.id}>
-                <div key={item.id} className="w-[262px] items-center text-center cursor-pointer h-[440px] flex gap-[8px] flex-col">
+              <a key={item.id} href={item.id}>
+                <div className="w-[262px] items-center text-center cursor-pointer h-[440px] flex gap-[8px] flex-col">
                   <img className="w-[250px] h-[260px]" src={item.image} alt="images" />
                   <h1>{item.title}</h1>
                   <button className="hover:bg-[#d4d4d4] w-[82px] h-[36px] bg-[#F6F6F6] rounded-[8px]">$37.00</button>

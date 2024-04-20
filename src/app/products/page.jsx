@@ -294,10 +294,10 @@ export default function products(){
                         </div>
                         <div className="flex flex-wrap pt-[50px] justify-between">
                         {data.map((item) =>(
-                            <a href={item.id}>
-                                <div key={item.id} className="w-[282px] justify-between items-center text-center h-[440px] border-[1px] rounded-[12px] flex gap-[8px] flex-col">
+                            <a key={item.id} href={item.id}>
+                                <div className="w-[282px] justify-between items-center text-center h-[440px] border-[1px] rounded-[12px] flex gap-[8px] flex-col">
                                     <img className="w-[250px] h-[300px]" src={item.image} alt="images" />
-                                            <p>{item.title}</p>
+                                    <p>{item.title}</p>
                                     <div className="">
                                         <div className="">
                                         </div>
