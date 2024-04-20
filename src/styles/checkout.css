@@ -1,0 +1,149 @@
+.data_color{
+    margin-left: 750px;
+    margin-top: 30px;
+  }
+  .data_section_btn1{
+    margin-top: 30px;
+    border-radius: 10px;
+    text-align: center;
+    margin-left:760px ;
+    width: 160px;
+    height: 40px;
+    background: #8A33FD;
+    display: flex;
+    color: white;
+  }
+  .data_section_btn1 p{
+    margin-left: 46px;
+    margin-top: 7px;
+  }
+  .i{
+    position: absolute;
+    margin-left: 20px;
+    margin-top: 8px;
+  }
+  .data_section_btn_btn{
+    position: absolute;
+    margin-top: -40px;
+    margin-left:960px ;
+    border-radius: 10px;
+    width: 80px;
+    height: 40px;
+    background: #fff;
+    color: black;
+    border: 1px solid #cccccc;
+  }
+  .h1{
+    margin-top: 50px;
+    margin-left:740px ;
+    width: 340px;
+    border: 1px solid rgb(214, 212, 212);
+  }
+  .images1{
+    margin-top: 40px;
+    margin-left:740px ;
+  }
+  .images2{
+    margin-top: -50px;
+    margin-left:970px ;
+  }
+  .images3{
+    position: absolute;
+    margin-top: 30px;
+    margin-left:740px ;
+  }
+  .images4{
+    margin-top: 30px;
+    margin-left:970px ;
+  }
+  .my_images_img{
+    margin-left: 100px;
+    position: absolute;
+    margin-top: 100px;
+  }
+  .my_details_p{
+    margin-left: 100px;
+    margin-top: 200px;
+  }
+  .images_images{
+    margin-left: 100px;
+    margin-top: 50px;
+  }
+  .Details_images_images{
+    margin-top: -300px;
+    margin-left: 780px;
+  }
+  
+  .divv{
+    margin-top: 150px;
+  }
+  .container_sation_chekout{
+    font-size: 30px;
+    margin-left: 60px;
+  }
+  .container_sation_chekout1{
+    font-size: 20px;
+    margin-left: 65px;
+    margin-top: 15px;
+  }
+  .inputs{
+  
+    border-radius: 10px;
+    width: 300px;
+    height: 40px;
+    background-color: #f8f2f2;
+    text-align: center;
+  }
+  .main{
+    display: flex;
+  }
+  .main1{
+    display: flex;
+  }
+  .main2{
+    display: flex;
+  }
+  .container_section_inputs{
+    margin-top: 40px;
+    margin-left: 60px;
+  }
+  .inp{
+    border-radius: 10px;
+    width: 200px;
+    height: 40px;
+    background-color: #f8f2f2;
+    text-align: center;
+  }
+  .btn_btn_btn{
+    margin-top: 60px;
+    margin-left: 60px;
+    width: 180px;
+    height: 50px;
+    background: #8A33FD;
+     color: white;
+     border-radius: 5px;
+    text-align: center;
+  }
+  .save{
+    margin-left:60px;
+    margin-top: 20px;
+  
+  }
+  .saveing{
+    margin-left:60px;
+    margin-top: 20px;
+    font-size: 30px;
+  }
+  .savee{
+    margin-left:80px;
+    margin-top: -160px;
+  }
+  .saveee{
+    margin-left:80px;
+    margin-top: 90px;
+  }
+  .button{
+    width: 80px;
+    height: 40px;
+    
+  }
